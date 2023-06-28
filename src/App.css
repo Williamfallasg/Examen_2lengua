@@ -1,0 +1,36 @@
+/* src/App.css */
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.input-field {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.generate-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.story-display {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
